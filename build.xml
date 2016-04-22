@@ -41,4 +41,9 @@
             <classpath refid="textAdventure.classpath"/>
         </java>
     </target>
+    <target name="textAdventure">
+        <java classname="textAdventure.textAdventure" failonerror="true" fork="yes">
+            <classpath refid="textAdventure.classpath"/>
+        </java>
+    </target>
 </project>
