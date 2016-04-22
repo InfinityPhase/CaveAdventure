@@ -1,4 +1,4 @@
-# TheCave https://travis-ci.org/InfinityPhase/CaveAdventure.svg?branch=master
+# TheCave [![Build Status](https://travis-ci.org/InfinityPhase/CaveAdventure.svg?branch=master)](https://travis-ci.org/InfinityPhase/CaveAdventure)
 A text-adventure game
 
 Pretty simple, what it says on the tin.
